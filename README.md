@@ -1,12 +1,17 @@
-## Apple AppStore Apps (Backup Repo)
+<center>
 
-### Application data of 1.2 million ios application from Apple AppStore.
-<img src="banner.png" width="440" height="200" />
+</h3> Example Project</h3>
+
+<h1> Apple AppStore Apps</h1>
+
+<strong>Application data of 1.2 million ios application from Apple AppStore</strong>
+
+</center><br>
 
 
 For latest dataset updates. Download from Kaggle: https://www.kaggle.com/gauthamp10/apple-appstore-apps
 
-I've collected the data with the help of Python and Scrapy running on a  cluster of cloud virtual machines.
+I've collected <i>[ [gauthamp10](https://github.com/gauthamp10/apple-appstore-apps) ]</i> the data with the help of Python and Scrapy running on a  cluster of cloud virtual machines.
 The data was collected on October 2021.
 
 <br/>
